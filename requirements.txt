@@ -5,3 +5,4 @@ jupyterlab
 jupyter_dash 
 xlrd
 xlwt
+jupyter_server_proxy
