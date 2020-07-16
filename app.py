@@ -11,7 +11,7 @@ import pandas as pd
 
 
 px.set_mapbox_access_token(
-    'your-token'
+    your-token
 )
 
 ## 処理に用いる関数

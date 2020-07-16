@@ -1,0 +1,7 @@
+	Unnamed: 1	Unnamed: 2
+《季節調整値》　（単位：百万円）		
+Seasonally adjusted data (a million yen)	NaN	NaN
+Years/Months	Exp-Total	Imp-Total
+NaN	NaN	NaN
+2010/04	5624812	5045774
+2010/05	5644861	5167155

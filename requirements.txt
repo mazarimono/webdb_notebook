@@ -3,3 +3,5 @@ pandas
 plotly 
 jupyterlab
 jupyter_dash 
+xlrd
+xlwt
