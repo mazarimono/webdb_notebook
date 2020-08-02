@@ -1,1 +1,0 @@
-array(['男性', '女性', '不明'], dtype=object)

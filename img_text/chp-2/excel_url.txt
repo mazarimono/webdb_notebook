@@ -1,9 +1,0 @@
-WARNING *** file size (193488) not 512 + multiple of sector size (512)
-['1.-1明治・大正', '1.-2昭和元～21年度', '1.-3昭和22～63年度', '1.-4平成', '1.-5令和']
-5
-	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	（単位：千円）
-年度	区　　 分	歳　　　　　　　　　　入	NaN	歳　　　　　　　　　　出	NaN	備　　　　　　　考	備　　　考
-NaN	NaN	予　　算　　額	決　　算　　額	予　　算　　額	決　　算　　額	NaN	NaN
-NaN	NaN	NaN	NaN	NaN	NaN	NaN	NaN
-平成	暫定予算	NaN	NaN	NaN	NaN	NaN	NaN
-元年度	第114国会	2843097334	NaN	9224545254	NaN	NaN	4月1日～5月20日分
