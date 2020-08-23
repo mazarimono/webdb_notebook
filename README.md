@@ -1,6 +1,6 @@
 # Web+DB Press vol118 特集2「Python可視化入門」ノート
 
-- - [binder](https://mybinder.org/v2/gh/mazarimono/webdb_notebook/ad9aed61fbd0a41ff3e3e1504f6b51c3b1a63db8)
+- [binder](https://mybinder.org/v2/gh/mazarimono/webdb_notebook/ad9aed61fbd0a41ff3e3e1504f6b51c3b1a63db8)
 - 上のbinderのリンクを押してもらうと、binder上でノートブックが動きます。
 - 各ノートブック/ファイル/ディレクトリは次のようになっています
   - boueki.ipynb 1章にある表で見るよりグラフで見た方が分かりやすいという所で使われた、表とグラフのノート
