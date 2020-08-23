@@ -2,6 +2,11 @@
 
 - [binder](https://mybinder.org/v2/gh/mazarimono/webdb_notebook/ad9aed61fbd0a41ff3e3e1504f6b51c3b1a63db8)
 - 上のbinderのリンクを押してもらうと、binder上でノートブックが動きます。
+- google colabボタンがあるページはボタンを押すとグーグルコラボで開けます
+  - 現在対応済みは boueki.ipynb, chapter-1.ipynbです。
+
+![画像](https://gyazo.com/f69c0c6e147a6178a52633f2a9496b89)
+
 - 各ノートブック/ファイル/ディレクトリは次のようになっています
   - boueki.ipynb 1章にある表で見るよりグラフで見た方が分かりやすいという所で使われた、表とグラフのノート
   - chapter-1.ipynb 1章のそのほかのノート
