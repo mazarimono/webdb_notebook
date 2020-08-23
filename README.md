@@ -3,7 +3,7 @@
 - [binder](https://mybinder.org/v2/gh/mazarimono/webdb_notebook/ad9aed61fbd0a41ff3e3e1504f6b51c3b1a63db8)
 - 上のbinderのリンクを押してもらうと、binder上でノートブックが動きます。
 - google colabボタンがあるページはボタンを押すとグーグルコラボで開けます
-  - 現在対応済みは boueki.ipynb, chapter-1.ipynbです。
+  - 現在対応済みは boueki.ipynb, chapter-1.ipynb, chapter-2.ipynbです。
 
 ![画像](https://i.gyazo.com/f69c0c6e147a6178a52633f2a9496b89.png)
 
@@ -20,5 +20,5 @@
   - data データが置かれているディレクトリ
 
 ## 今後の変更予定
-- 執筆後、JupyterDashがcolab対応したので、折を見てノートブックをcolab対応したものに更新したいと思います。
+- 執筆後、JupyterDashがcolab対応したので、折を見てノートブックをcolab対応したものに更新します。
 - COVID-19データはリアルタイムで更新されており、本に示したものと異なる処理が必要になることがあります。そのような際は対応しますので、issueもしくはpull requestをいただけますと幸いです。よろしくお願いいたします。
